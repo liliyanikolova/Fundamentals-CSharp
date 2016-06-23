@@ -1,0 +1,9 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\3. CountSubstringOccurrences\bin\Debug\_3.CountSubstringOccurrences.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\3. CountSubstringOccurrences\bin\Debug\_3.CountSubstringOccurrences.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\3. CountSubstringOccurrences\bin\Debug\_3.CountSubstringOccurrences.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\3. CountSubstringOccurrences\obj\Debug\3. CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\3. CountSubstringOccurrences\obj\Debug\_3.CountSubstringOccurrences.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\3. CountSubstringOccurrences\obj\Debug\_3.CountSubstringOccurrences.pdb
+D:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\3. StringsAndTextProcessing\3. CountSubstringOccurrences\bin\Debug\_3.CountSubstringOccurrences.exe.config
+D:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\3. StringsAndTextProcessing\3. CountSubstringOccurrences\obj\Debug\_3.CountSubstringOccurrences.exe
+D:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\3. StringsAndTextProcessing\3. CountSubstringOccurrences\obj\Debug\_3.CountSubstringOccurrences.pdb

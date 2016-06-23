@@ -1,0 +1,15 @@
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\3. SoftuniNumerals\bin\Debug\_3.SoftuniNumerals.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\3. SoftuniNumerals\bin\Debug\_3.SoftuniNumerals.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\3. SoftuniNumerals\bin\Debug\_3.SoftuniNumerals.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\3. SoftuniNumerals\obj\Debug\3. SoftuniNumerals.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\3. SoftuniNumerals\obj\Debug\_3.SoftuniNumerals.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\3. SoftuniNumerals\obj\Debug\_3.SoftuniNumerals.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\3. SoftuniNumerals\bin\Debug\_3.SoftuniNumerals.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\3. SoftuniNumerals\obj\Debug\_3.SoftuniNumerals.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\3. SoftuniNumerals\obj\Debug\_3.SoftuniNumerals.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\3. SoftuniNumerals\bin\Debug\_3.SoftuniNumerals.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\3. SoftuniNumerals\bin\Debug\_3.SoftuniNumerals.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\3. SoftuniNumerals\obj\Debug\3. SoftuniNumerals.csprojResolveAssemblyReference.cache
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\3. SoftuniNumerals\bin\Debug\_3.SoftuniNumerals.exe.config
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\3. SoftuniNumerals\obj\Debug\_3.SoftuniNumerals.exe
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\3. SoftuniNumerals\obj\Debug\_3.SoftuniNumerals.pdb

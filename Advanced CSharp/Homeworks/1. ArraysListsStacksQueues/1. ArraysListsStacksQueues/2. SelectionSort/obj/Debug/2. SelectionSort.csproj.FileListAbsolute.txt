@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\2. SelectionSort\bin\Debug\_2.SelectionSort.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\2. SelectionSort\bin\Debug\_2.SelectionSort.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\2. SelectionSort\bin\Debug\_2.SelectionSort.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\2. SelectionSort\obj\Debug\2. SelectionSort.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\2. SelectionSort\obj\Debug\_2.SelectionSort.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\2. SelectionSort\obj\Debug\_2.SelectionSort.pdb

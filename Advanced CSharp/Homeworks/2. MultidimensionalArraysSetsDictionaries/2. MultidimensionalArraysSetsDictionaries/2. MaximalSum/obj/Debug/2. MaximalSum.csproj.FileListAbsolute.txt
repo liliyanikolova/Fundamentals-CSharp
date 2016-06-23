@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\2. MaximalSum\bin\Debug\_2.MaximalSum.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\2. MaximalSum\bin\Debug\_2.MaximalSum.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\2. MaximalSum\bin\Debug\_2.MaximalSum.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\2. MaximalSum\obj\Debug\2. MaximalSum.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\2. MaximalSum\obj\Debug\_2.MaximalSum.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\2. MaximalSum\obj\Debug\_2.MaximalSum.pdb

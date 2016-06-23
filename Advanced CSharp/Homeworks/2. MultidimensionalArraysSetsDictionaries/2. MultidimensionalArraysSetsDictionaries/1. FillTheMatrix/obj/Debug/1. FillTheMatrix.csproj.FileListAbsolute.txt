@@ -1,0 +1,7 @@
+C:\Users\lili\Desktop\2. MultidimensionalArraysSetsDictionaries\1. FillTheMatrix\bin\Debug\_1.FillTheMatrix.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\1. FillTheMatrix\bin\Debug\_1.FillTheMatrix.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\1. FillTheMatrix\bin\Debug\_1.FillTheMatrix.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\1. FillTheMatrix\bin\Debug\_1.FillTheMatrix.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\1. FillTheMatrix\obj\Debug\1. FillTheMatrix.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\1. FillTheMatrix\obj\Debug\_1.FillTheMatrix.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\1. FillTheMatrix\obj\Debug\_1.FillTheMatrix.pdb

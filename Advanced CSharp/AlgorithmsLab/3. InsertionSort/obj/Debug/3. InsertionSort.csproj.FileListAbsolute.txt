@@ -1,0 +1,9 @@
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\3. InsertionSort\bin\Debug\_3.InsertionSort.exe.config
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\3. InsertionSort\bin\Debug\_3.InsertionSort.exe
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\3. InsertionSort\bin\Debug\_3.InsertionSort.pdb
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\3. InsertionSort\obj\Debug\3. InsertionSort.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\3. InsertionSort\obj\Debug\_3.InsertionSort.exe
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\3. InsertionSort\obj\Debug\_3.InsertionSort.pdb
+D:\Razni\SoftUni\Algorithms\AlgorithmsLab\3. InsertionSort\bin\Debug\_3.InsertionSort.exe.config
+D:\Razni\SoftUni\Algorithms\AlgorithmsLab\3. InsertionSort\obj\Debug\_3.InsertionSort.exe
+D:\Razni\SoftUni\Algorithms\AlgorithmsLab\3. InsertionSort\obj\Debug\_3.InsertionSort.pdb

@@ -1,0 +1,2 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\5. ValidUsernames\bin\Debug\_5.ValidUsernames.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\5. ValidUsernames\bin\Debug\_5.ValidUsernames.exe.config

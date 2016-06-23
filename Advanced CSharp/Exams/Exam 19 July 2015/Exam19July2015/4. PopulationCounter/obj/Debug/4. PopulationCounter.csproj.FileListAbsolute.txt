@@ -1,0 +1,5 @@
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\4. PopulationCounter\bin\Debug\_4.PopulationCounter.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\4. PopulationCounter\bin\Debug\_4.PopulationCounter.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\4. PopulationCounter\bin\Debug\_4.PopulationCounter.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\4. PopulationCounter\obj\Debug\_4.PopulationCounter.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\4. PopulationCounter\obj\Debug\_4.PopulationCounter.pdb

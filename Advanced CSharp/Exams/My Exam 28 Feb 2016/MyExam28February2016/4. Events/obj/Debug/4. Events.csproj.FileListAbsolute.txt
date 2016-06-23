@@ -1,0 +1,12 @@
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\4. Events\bin\Debug\_4.Events.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\4. Events\bin\Debug\_4.Events.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\4. Events\bin\Debug\_4.Events.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\4. Events\obj\Debug\4. Events.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\4. Events\obj\Debug\_4.Events.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\4. Events\obj\Debug\_4.Events.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\4. Events\bin\Debug\_4.Events.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\4. Events\obj\Debug\_4.Events.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\4. Events\obj\Debug\_4.Events.pdb
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\4. Events\bin\Debug\_4.Events.exe.config
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\4. Events\obj\Debug\_4.Events.exe
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\4. Events\obj\Debug\_4.Events.pdb

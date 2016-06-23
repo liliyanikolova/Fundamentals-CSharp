@@ -1,0 +1,1 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\7. LettersChangeNumbers\bin\Debug\_7.LettersChangeNumbers.exe.config

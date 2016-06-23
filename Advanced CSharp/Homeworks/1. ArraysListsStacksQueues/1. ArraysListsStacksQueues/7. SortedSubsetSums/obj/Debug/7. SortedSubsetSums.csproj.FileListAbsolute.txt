@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\7. SortedSubsetSums\bin\Debug\_7.SortedSubsetSums.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\7. SortedSubsetSums\bin\Debug\_7.SortedSubsetSums.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\7. SortedSubsetSums\bin\Debug\_7.SortedSubsetSums.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\7. SortedSubsetSums\obj\Debug\7. SortedSubsetSums.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\7. SortedSubsetSums\obj\Debug\_7.SortedSubsetSums.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\7. SortedSubsetSums\obj\Debug\_7.SortedSubsetSums.pdb

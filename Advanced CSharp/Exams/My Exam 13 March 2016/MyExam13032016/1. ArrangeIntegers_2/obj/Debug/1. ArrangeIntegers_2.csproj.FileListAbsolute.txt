@@ -1,0 +1,8 @@
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers_2\bin\Debug\_1.ArrangeIntegers_2.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers_2\bin\Debug\_1.ArrangeIntegers_2.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers_2\bin\Debug\_1.ArrangeIntegers_2.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers_2\obj\Debug\_1.ArrangeIntegers_2.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers_2\obj\Debug\_1.ArrangeIntegers_2.pdb
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers_2\bin\Debug\_1.ArrangeIntegers_2.exe.config
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers_2\obj\Debug\_1.ArrangeIntegers_2.exe
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers_2\obj\Debug\_1.ArrangeIntegers_2.pdb

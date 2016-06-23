@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\6. SubsetSums\bin\Debug\_6.SubsetSums.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\6. SubsetSums\bin\Debug\_6.SubsetSums.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\6. SubsetSums\bin\Debug\_6.SubsetSums.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\6. SubsetSums\obj\Debug\6. SubsetSums.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\6. SubsetSums\obj\Debug\_6.SubsetSums.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\6. SubsetSums\obj\Debug\_6.SubsetSums.pdb

@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\8. NightLife\bin\Debug\_8.NightLife.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\8. NightLife\bin\Debug\_8.NightLife.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\8. NightLife\bin\Debug\_8.NightLife.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\8. NightLife\obj\Debug\8. NightLife.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\8. NightLife\obj\Debug\_8.NightLife.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\8. NightLife\obj\Debug\_8.NightLife.pdb

@@ -1,0 +1,5 @@
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\4. LinearAndBinarySearch\bin\Debug\_4.LinearAndBinarySearch.exe.config
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\4. LinearAndBinarySearch\bin\Debug\_4.LinearAndBinarySearch.exe
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\4. LinearAndBinarySearch\bin\Debug\_4.LinearAndBinarySearch.pdb
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\4. LinearAndBinarySearch\obj\Debug\_4.LinearAndBinarySearch.exe
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\4. LinearAndBinarySearch\obj\Debug\_4.LinearAndBinarySearch.pdb

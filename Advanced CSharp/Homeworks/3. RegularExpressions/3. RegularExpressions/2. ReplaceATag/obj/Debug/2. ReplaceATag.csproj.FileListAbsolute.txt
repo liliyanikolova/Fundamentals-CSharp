@@ -1,0 +1,9 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\2. ReplaceATag\bin\Debug\_2.ReplaceATag.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\2. ReplaceATag\bin\Debug\_2.ReplaceATag.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\2. ReplaceATag\bin\Debug\_2.ReplaceATag.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\2. ReplaceATag\obj\Debug\2. ReplaceATag.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\2. ReplaceATag\obj\Debug\_2.ReplaceATag.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\2. ReplaceATag\obj\Debug\_2.ReplaceATag.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\2. ReplaceATag\bin\Debug\_2.ReplaceATag.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\2. ReplaceATag\obj\Debug\_2.ReplaceATag.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\2. ReplaceATag\obj\Debug\_2.ReplaceATag.pdb

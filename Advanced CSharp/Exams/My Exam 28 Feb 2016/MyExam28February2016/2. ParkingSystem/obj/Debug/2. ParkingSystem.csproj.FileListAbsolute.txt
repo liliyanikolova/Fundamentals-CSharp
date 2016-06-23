@@ -1,0 +1,9 @@
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\2. ParkingSystem\bin\Debug\_2.ParkingSystem.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\2. ParkingSystem\bin\Debug\_2.ParkingSystem.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\2. ParkingSystem\bin\Debug\_2.ParkingSystem.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\2. ParkingSystem\obj\Debug\2. ParkingSystem.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\2. ParkingSystem\obj\Debug\_2.ParkingSystem.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\2. ParkingSystem\obj\Debug\_2.ParkingSystem.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\2. ParkingSystem\bin\Debug\_2.ParkingSystem.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\2. ParkingSystem\obj\Debug\_2.ParkingSystem.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\2. ParkingSystem\obj\Debug\_2.ParkingSystem.pdb

@@ -1,0 +1,7 @@
+C:\Users\lili\Desktop\7. FunctionalProgramming\1. ClassStudent\bin\Debug\_1.ClassStudent.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\4. Advanced-CSharp-Functional-Programming\4. Advanced-CSharp-Functional-Programming-Homework\7. FunctionalProgramming\1. ClassStudent\bin\Debug\_1.ClassStudent.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\4. Advanced-CSharp-Functional-Programming\4. Advanced-CSharp-Functional-Programming-Homework\7. FunctionalProgramming\1. ClassStudent\bin\Debug\_1.ClassStudent.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\4. Advanced-CSharp-Functional-Programming\4. Advanced-CSharp-Functional-Programming-Homework\7. FunctionalProgramming\1. ClassStudent\bin\Debug\_1.ClassStudent.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\4. Advanced-CSharp-Functional-Programming\4. Advanced-CSharp-Functional-Programming-Homework\7. FunctionalProgramming\1. ClassStudent\obj\Debug\1. ClassStudent.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\4. Advanced-CSharp-Functional-Programming\4. Advanced-CSharp-Functional-Programming-Homework\7. FunctionalProgramming\1. ClassStudent\obj\Debug\_1.ClassStudent.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\4. Advanced-CSharp-Functional-Programming\4. Advanced-CSharp-Functional-Programming-Homework\7. FunctionalProgramming\1. ClassStudent\obj\Debug\_1.ClassStudent.pdb

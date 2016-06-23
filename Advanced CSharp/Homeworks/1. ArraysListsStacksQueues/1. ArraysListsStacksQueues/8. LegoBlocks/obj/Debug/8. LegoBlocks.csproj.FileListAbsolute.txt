@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\8. LegoBlocks\bin\Debug\_8.LegoBlocks.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\8. LegoBlocks\bin\Debug\_8.LegoBlocks.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\8. LegoBlocks\bin\Debug\_8.LegoBlocks.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\8. LegoBlocks\obj\Debug\8. LegoBlocks.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\8. LegoBlocks\obj\Debug\_8.LegoBlocks.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\8. LegoBlocks\obj\Debug\_8.LegoBlocks.pdb

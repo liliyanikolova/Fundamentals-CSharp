@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers\bin\Debug\_1.ArrangeIntegers.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers\bin\Debug\_1.ArrangeIntegers.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers\bin\Debug\_1.ArrangeIntegers.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers\obj\Debug\1. ArrangeIntegers.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers\obj\Debug\_1.ArrangeIntegers.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\1. ArrangeIntegers\obj\Debug\_1.ArrangeIntegers.pdb

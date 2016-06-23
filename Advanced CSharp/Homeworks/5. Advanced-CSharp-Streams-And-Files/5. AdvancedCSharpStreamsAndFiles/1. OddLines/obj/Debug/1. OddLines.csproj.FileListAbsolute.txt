@@ -1,0 +1,2 @@
+C:\Users\lili\Desktop\5. AdvancedCSharpStreamsAndFiles\1. OddLines\bin\Debug\_1.OddLines.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\5. Advanced-CSharp-Streams-And-Files\5. AdvancedCSharpStreamsAndFiles\1. OddLines\bin\Debug\_1.OddLines.exe.config

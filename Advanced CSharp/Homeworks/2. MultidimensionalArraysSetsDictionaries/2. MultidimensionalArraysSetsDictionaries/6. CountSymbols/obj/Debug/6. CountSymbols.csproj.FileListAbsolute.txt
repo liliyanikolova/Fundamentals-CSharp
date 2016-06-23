@@ -1,0 +1,5 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\6. CountSymbols\bin\Debug\_6.CountSymbols.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\6. CountSymbols\bin\Debug\_6.CountSymbols.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\6. CountSymbols\bin\Debug\_6.CountSymbols.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\6. CountSymbols\obj\Debug\_6.CountSymbols.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\6. CountSymbols\obj\Debug\_6.CountSymbols.pdb

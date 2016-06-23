@@ -1,0 +1,5 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\6. Palindromes\bin\Debug\_6.Palindromes.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\6. Palindromes\bin\Debug\_6.Palindromes.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\6. Palindromes\bin\Debug\_6.Palindromes.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\6. Palindromes\obj\Debug\_6.Palindromes.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\6. Palindromes\obj\Debug\_6.Palindromes.pdb

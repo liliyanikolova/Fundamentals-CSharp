@@ -1,0 +1,9 @@
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\1. CollectResources\bin\Debug\_1.CollectResources.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\1. CollectResources\bin\Debug\_1.CollectResources.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\1. CollectResources\bin\Debug\_1.CollectResources.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\1. CollectResources\obj\Debug\1. CollectResources.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\1. CollectResources\obj\Debug\_1.CollectResources.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\MyExam28February2016\1. CollectResources\obj\Debug\_1.CollectResources.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\1. CollectResources\bin\Debug\_1.CollectResources.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\1. CollectResources\obj\Debug\_1.CollectResources.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 28 Feb 2016\MyExam28February2016\1. CollectResources\obj\Debug\_1.CollectResources.pdb

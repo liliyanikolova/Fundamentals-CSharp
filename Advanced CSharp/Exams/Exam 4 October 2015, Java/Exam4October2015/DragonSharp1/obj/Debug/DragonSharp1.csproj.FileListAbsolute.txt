@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\Exam4October2015\DragonSharp1\bin\Debug\DragonSharp1.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\Exam4October2015\DragonSharp1\bin\Debug\DragonSharp1.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\Exam4October2015\DragonSharp1\bin\Debug\DragonSharp1.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\Exam4October2015\DragonSharp1\obj\Debug\DragonSharp1.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\Exam4October2015\DragonSharp1\obj\Debug\DragonSharp1.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 4 October 2015, Java\Exam4October2015\DragonSharp1\obj\Debug\DragonSharp1.pdb

@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\4. SequencesOfEqualStrings\bin\Debug\_4.SequencesOfEqualStrings.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\4. SequencesOfEqualStrings\bin\Debug\_4.SequencesOfEqualStrings.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\4. SequencesOfEqualStrings\bin\Debug\_4.SequencesOfEqualStrings.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\4. SequencesOfEqualStrings\obj\Debug\4. SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\4. SequencesOfEqualStrings\obj\Debug\_4.SequencesOfEqualStrings.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\4. SequencesOfEqualStrings\obj\Debug\_4.SequencesOfEqualStrings.pdb

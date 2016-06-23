@@ -1,0 +1,9 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\4. SentenceExtractor\bin\Debug\_4.SentenceExtractor.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\4. SentenceExtractor\bin\Debug\_4.SentenceExtractor.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\4. SentenceExtractor\bin\Debug\_4.SentenceExtractor.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\4. SentenceExtractor\obj\Debug\4. SentenceExtractor.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\4. SentenceExtractor\obj\Debug\_4.SentenceExtractor.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\4. SentenceExtractor\obj\Debug\_4.SentenceExtractor.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\4. SentenceExtractor\bin\Debug\_4.SentenceExtractor.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\4. SentenceExtractor\obj\Debug\_4.SentenceExtractor.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\4. SentenceExtractor\obj\Debug\_4.SentenceExtractor.pdb

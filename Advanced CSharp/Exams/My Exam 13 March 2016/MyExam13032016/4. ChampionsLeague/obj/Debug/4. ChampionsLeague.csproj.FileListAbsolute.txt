@@ -1,0 +1,9 @@
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\4. ChampionsLeague\bin\Debug\_4.ChampionsLeague.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\4. ChampionsLeague\bin\Debug\_4.ChampionsLeague.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\4. ChampionsLeague\bin\Debug\_4.ChampionsLeague.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\4. ChampionsLeague\obj\Debug\4. ChampionsLeague.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\4. ChampionsLeague\obj\Debug\_4.ChampionsLeague.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\4. ChampionsLeague\obj\Debug\_4.ChampionsLeague.pdb
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\4. ChampionsLeague\bin\Debug\_4.ChampionsLeague.exe.config
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\4. ChampionsLeague\obj\Debug\_4.ChampionsLeague.exe
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\4. ChampionsLeague\obj\Debug\_4.ChampionsLeague.pdb

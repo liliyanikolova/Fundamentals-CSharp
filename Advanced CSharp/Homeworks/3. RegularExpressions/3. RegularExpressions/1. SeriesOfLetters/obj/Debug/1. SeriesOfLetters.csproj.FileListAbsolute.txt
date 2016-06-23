@@ -1,0 +1,12 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\1. SeriesOfLetters\bin\Debug\_1.SeriesOfLetters.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\1. SeriesOfLetters\bin\Debug\_1.SeriesOfLetters.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\1. SeriesOfLetters\bin\Debug\_1.SeriesOfLetters.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\1. SeriesOfLetters\obj\Debug\1. SeriesOfLetters.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\1. SeriesOfLetters\obj\Debug\_1.SeriesOfLetters.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\1. SeriesOfLetters\obj\Debug\_1.SeriesOfLetters.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\1. SeriesOfLetters\bin\Debug\_1.SeriesOfLetters.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\1. SeriesOfLetters\obj\Debug\_1.SeriesOfLetters.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\1. SeriesOfLetters\obj\Debug\_1.SeriesOfLetters.pdb
+D:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\1. SeriesOfLetters\bin\Debug\_1.SeriesOfLetters.exe.config
+D:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\1. SeriesOfLetters\obj\Debug\_1.SeriesOfLetters.exe
+D:\Razni\SoftUni\Advanced C#\Homeworks\3. RegularExpressions\3. RegularExpressions\1. SeriesOfLetters\obj\Debug\_1.SeriesOfLetters.pdb

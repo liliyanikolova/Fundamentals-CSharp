@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\4. TextFilter\bin\Debug\_4.TextFilter.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\4. TextFilter\bin\Debug\_4.TextFilter.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\4. TextFilter\bin\Debug\_4.TextFilter.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\4. TextFilter\obj\Debug\4. TextFilter.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\4. TextFilter\obj\Debug\_4.TextFilter.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\4. TextFilter\obj\Debug\_4.TextFilter.pdb

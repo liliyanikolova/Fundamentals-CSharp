@@ -1,0 +1,12 @@
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam10July2015\2. ArraySlider\bin\Debug\_2.ArraySlider.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam10July2015\2. ArraySlider\bin\Debug\_2.ArraySlider.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam10July2015\2. ArraySlider\bin\Debug\_2.ArraySlider.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam10July2015\2. ArraySlider\obj\Debug\2. ArraySlider.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam10July2015\2. ArraySlider\obj\Debug\_2.ArraySlider.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam10July2015\2. ArraySlider\obj\Debug\_2.ArraySlider.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\2. ArraySlider\bin\Debug\_2.ArraySlider.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\2. ArraySlider\obj\Debug\_2.ArraySlider.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\2. ArraySlider\obj\Debug\_2.ArraySlider.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\2. ArraySlider\bin\Debug\_2.ArraySlider.exe
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\2. ArraySlider\bin\Debug\_2.ArraySlider.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\Exam 19 July 2015\Exam19July2015\2. ArraySlider\obj\Debug\2. ArraySlider.csprojResolveAssemblyReference.cache

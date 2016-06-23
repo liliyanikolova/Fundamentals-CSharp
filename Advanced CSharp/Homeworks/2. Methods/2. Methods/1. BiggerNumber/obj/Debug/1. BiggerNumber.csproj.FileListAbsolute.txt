@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\1. BiggerNumber\bin\Debug\_1.BiggerNumber.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\1. BiggerNumber\bin\Debug\_1.BiggerNumber.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\1. BiggerNumber\bin\Debug\_1.BiggerNumber.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\1. BiggerNumber\obj\Debug\1. BiggerNumber.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\1. BiggerNumber\obj\Debug\_1.BiggerNumber.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\1. BiggerNumber\obj\Debug\_1.BiggerNumber.pdb

@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\2. LastDigitOfNumber\bin\Debug\_2.LastDigitOfNumber.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\2. LastDigitOfNumber\bin\Debug\_2.LastDigitOfNumber.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\2. LastDigitOfNumber\bin\Debug\_2.LastDigitOfNumber.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\2. LastDigitOfNumber\obj\Debug\2. LastDigitOfNumber.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\2. LastDigitOfNumber\obj\Debug\_2.LastDigitOfNumber.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. Methods\2. LastDigitOfNumber\obj\Debug\_2.LastDigitOfNumber.pdb

@@ -1,0 +1,12 @@
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\bin\Debug\_2.Monopoly.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\bin\Debug\_2.Monopoly.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\bin\Debug\_2.Monopoly.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\obj\Debug\2. Monopoly.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\obj\Debug\_2.Monopoly.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\obj\Debug\_2.Monopoly.pdb
+D:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\bin\Debug\_2.Monopoly.exe.config
+D:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\obj\Debug\_2.Monopoly.exe
+D:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\obj\Debug\_2.Monopoly.pdb
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\bin\Debug\_2.Monopoly.exe.config
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\obj\Debug\_2.Monopoly.exe
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\2. Monopoly\obj\Debug\_2.Monopoly.pdb

@@ -1,0 +1,7 @@
+C:\Users\lili\Desktop\ExamOct2015\1. ArrayManipulatorProject\bin\Debug\_1.ArrayManipulatorProject.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\1. ArrayManipulatorProject\bin\Debug\_1.ArrayManipulatorProject.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\1. ArrayManipulatorProject\bin\Debug\_1.ArrayManipulatorProject.exe
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\1. ArrayManipulatorProject\bin\Debug\_1.ArrayManipulatorProject.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\1. ArrayManipulatorProject\obj\Debug\1. ArrayManipulatorProject.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\1. ArrayManipulatorProject\obj\Debug\_1.ArrayManipulatorProject.exe
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\1. ArrayManipulatorProject\obj\Debug\_1.ArrayManipulatorProject.pdb

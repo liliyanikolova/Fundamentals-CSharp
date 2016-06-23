@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\4. Unleashed\bin\Debug\_4.Unleashed.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\4. Unleashed\bin\Debug\_4.Unleashed.exe
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\4. Unleashed\bin\Debug\_4.Unleashed.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\4. Unleashed\obj\Debug\4. Unleashed.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\4. Unleashed\obj\Debug\_4.Unleashed.exe
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\4. Unleashed\obj\Debug\_4.Unleashed.pdb

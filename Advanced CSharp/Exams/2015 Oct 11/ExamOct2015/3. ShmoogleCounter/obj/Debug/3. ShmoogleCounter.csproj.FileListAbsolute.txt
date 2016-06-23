@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\3. ShmoogleCounter\bin\Debug\_3.ShmoogleCounter.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\3. ShmoogleCounter\bin\Debug\_3.ShmoogleCounter.exe
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\3. ShmoogleCounter\bin\Debug\_3.ShmoogleCounter.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\3. ShmoogleCounter\obj\Debug\3. ShmoogleCounter.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\3. ShmoogleCounter\obj\Debug\_3.ShmoogleCounter.exe
+G:\Razni\SoftUni\Advanced C#\Exams\2015 Oct 11\ExamOct2015\3. ShmoogleCounter\obj\Debug\_3.ShmoogleCounter.pdb

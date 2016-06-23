@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\MyExam13032016\bin\Debug\MyExam13032016.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\MyExam13032016\bin\Debug\MyExam13032016.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\MyExam13032016\bin\Debug\MyExam13032016.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\MyExam13032016\obj\Debug\MyExam13032016.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\MyExam13032016\obj\Debug\MyExam13032016.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\MyExam13032016\obj\Debug\MyExam13032016.pdb

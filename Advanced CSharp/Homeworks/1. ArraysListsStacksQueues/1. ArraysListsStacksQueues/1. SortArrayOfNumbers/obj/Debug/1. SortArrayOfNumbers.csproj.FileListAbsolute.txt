@@ -1,0 +1,7 @@
+G:\Razni\SoftUni\High-Quality Code\Homeworks\15. Logger\1. ArraysListsStacksQueues\1. SortArrayOfNumbers\bin\Debug\_1.SortArrayOfNumbers.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\1. SortArrayOfNumbers\bin\Debug\_1.SortArrayOfNumbers.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\1. SortArrayOfNumbers\bin\Debug\_1.SortArrayOfNumbers.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\1. SortArrayOfNumbers\bin\Debug\_1.SortArrayOfNumbers.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\1. SortArrayOfNumbers\obj\Debug\1. SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\1. SortArrayOfNumbers\obj\Debug\_1.SortArrayOfNumbers.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\1. SortArrayOfNumbers\obj\Debug\_1.SortArrayOfNumbers.pdb

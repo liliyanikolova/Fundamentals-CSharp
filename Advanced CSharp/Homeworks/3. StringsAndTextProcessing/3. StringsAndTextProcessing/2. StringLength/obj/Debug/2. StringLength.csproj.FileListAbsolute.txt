@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\2. StringLength\bin\Debug\_2.StringLength.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\2. StringLength\bin\Debug\_2.StringLength.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\2. StringLength\bin\Debug\_2.StringLength.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\2. StringLength\obj\Debug\2. StringLength.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\2. StringLength\obj\Debug\_2.StringLength.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\2. StringLength\obj\Debug\_2.StringLength.pdb

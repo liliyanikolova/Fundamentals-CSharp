@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\5. UnicodeCharacters\bin\Debug\_5.UnicodeCharacters.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\5. UnicodeCharacters\bin\Debug\_5.UnicodeCharacters.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\5. UnicodeCharacters\bin\Debug\_5.UnicodeCharacters.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\5. UnicodeCharacters\obj\Debug\5. UnicodeCharacters.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\5. UnicodeCharacters\obj\Debug\_5.UnicodeCharacters.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\3. StringsAndTextProcessing\5. UnicodeCharacters\obj\Debug\_5.UnicodeCharacters.pdb

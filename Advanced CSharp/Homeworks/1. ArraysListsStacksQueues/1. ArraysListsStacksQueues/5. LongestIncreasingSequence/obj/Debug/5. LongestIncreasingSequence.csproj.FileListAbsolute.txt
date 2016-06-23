@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\5. LongestIncreasingSequence\bin\Debug\_5.LongestIncreasingSequence.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\5. LongestIncreasingSequence\bin\Debug\_5.LongestIncreasingSequence.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\5. LongestIncreasingSequence\bin\Debug\_5.LongestIncreasingSequence.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\5. LongestIncreasingSequence\obj\Debug\5. LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\5. LongestIncreasingSequence\obj\Debug\_5.LongestIncreasingSequence.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\5. LongestIncreasingSequence\obj\Debug\_5.LongestIncreasingSequence.pdb

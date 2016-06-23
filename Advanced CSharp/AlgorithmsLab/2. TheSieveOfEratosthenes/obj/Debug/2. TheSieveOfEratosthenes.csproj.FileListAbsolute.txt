@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\2. TheSieveOfEratosthenes\bin\Debug\_2.TheSieveOfEratosthenes.exe.config
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\2. TheSieveOfEratosthenes\bin\Debug\_2.TheSieveOfEratosthenes.exe
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\2. TheSieveOfEratosthenes\bin\Debug\_2.TheSieveOfEratosthenes.pdb
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\2. TheSieveOfEratosthenes\obj\Debug\2. TheSieveOfEratosthenes.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\2. TheSieveOfEratosthenes\obj\Debug\_2.TheSieveOfEratosthenes.exe
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\2. TheSieveOfEratosthenes\obj\Debug\_2.TheSieveOfEratosthenes.pdb

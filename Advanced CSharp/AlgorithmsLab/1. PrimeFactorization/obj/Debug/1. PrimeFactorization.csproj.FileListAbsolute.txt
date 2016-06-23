@@ -1,0 +1,9 @@
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\1. PrimeFactorization\bin\Debug\_1.PrimeFactorization.exe.config
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\1. PrimeFactorization\bin\Debug\_1.PrimeFactorization.exe
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\1. PrimeFactorization\bin\Debug\_1.PrimeFactorization.pdb
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\1. PrimeFactorization\obj\Debug\1. PrimeFactorization.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\1. PrimeFactorization\obj\Debug\_1.PrimeFactorization.exe
+G:\Razni\SoftUni\Advanced C#\AlgorithmsLab\1. PrimeFactorization\obj\Debug\_1.PrimeFactorization.pdb
+D:\Razni\SoftUni\Algorithms\AlgorithmsLab\1. PrimeFactorization\bin\Debug\_1.PrimeFactorization.exe.config
+D:\Razni\SoftUni\Algorithms\AlgorithmsLab\1. PrimeFactorization\obj\Debug\_1.PrimeFactorization.exe
+D:\Razni\SoftUni\Algorithms\AlgorithmsLab\1. PrimeFactorization\obj\Debug\_1.PrimeFactorization.pdb

@@ -1,0 +1,5 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\3. MatrixShuffling\bin\Debug\_3.MatrixShuffling.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\3. MatrixShuffling\bin\Debug\_3.MatrixShuffling.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\3. MatrixShuffling\bin\Debug\_3.MatrixShuffling.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\3. MatrixShuffling\obj\Debug\_3.MatrixShuffling.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\3. MatrixShuffling\obj\Debug\_3.MatrixShuffling.pdb

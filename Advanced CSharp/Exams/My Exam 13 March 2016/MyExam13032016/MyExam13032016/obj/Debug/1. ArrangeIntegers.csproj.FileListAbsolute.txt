@@ -1,0 +1,2 @@
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\MyExam13032016\bin\Debug\ArrangeIntegersMain.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\MyExam13032016\bin\Debug\1. ArrangeIntegers.exe.config

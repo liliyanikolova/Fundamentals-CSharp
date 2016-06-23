@@ -1,0 +1,12 @@
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\bin\Debug\_3.BasicMarkUpLanguage.exe.config
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\bin\Debug\_3.BasicMarkUpLanguage.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\bin\Debug\_3.BasicMarkUpLanguage.pdb
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\obj\Debug\3. BasicMarkUpLanguage.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\obj\Debug\_3.BasicMarkUpLanguage.exe
+G:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\obj\Debug\_3.BasicMarkUpLanguage.pdb
+D:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\bin\Debug\_3.BasicMarkUpLanguage.exe.config
+D:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\obj\Debug\_3.BasicMarkUpLanguage.exe
+D:\Razni\SoftUni\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\obj\Debug\_3.BasicMarkUpLanguage.pdb
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\bin\Debug\_3.BasicMarkUpLanguage.exe.config
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\obj\Debug\_3.BasicMarkUpLanguage.exe
+D:\Razni\SoftUni\Fundamentals C#\Advanced C#\Exams\My Exam 13 March 2016\MyExam13032016\3. BasicMarkUpLanguage\obj\Debug\_3.BasicMarkUpLanguage.pdb

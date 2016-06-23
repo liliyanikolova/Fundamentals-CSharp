@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\9. StuckNumbers\bin\Debug\_9.StuckNumbers.exe.config
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\9. StuckNumbers\bin\Debug\_9.StuckNumbers.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\9. StuckNumbers\bin\Debug\_9.StuckNumbers.pdb
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\9. StuckNumbers\obj\Debug\9. StuckNumbers.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\9. StuckNumbers\obj\Debug\_9.StuckNumbers.exe
+G:\Razni\SoftUni\Advanced C#\Homeworks\1. ArraysListsStacksQueues\9. StuckNumbers\obj\Debug\_9.StuckNumbers.pdb

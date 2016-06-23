@@ -1,0 +1,1 @@
+G:\Razni\SoftUni\Advanced C#\Homeworks\2. MultidimensionalArraysSetsDictionaries\4. SequenceInMatrix\bin\Debug\_4.SequenceInMatrix.exe.config
