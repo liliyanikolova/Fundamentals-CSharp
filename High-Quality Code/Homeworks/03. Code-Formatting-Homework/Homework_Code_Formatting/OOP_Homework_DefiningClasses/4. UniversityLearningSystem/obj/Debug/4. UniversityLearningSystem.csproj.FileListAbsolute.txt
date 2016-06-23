@@ -1,0 +1,12 @@
+C:\Users\lili\Documents\Visual Studio 2013\Projects\OOP\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\bin\Debug\_4.UniversityLearningSystem.exe.config
+C:\Users\lili\Documents\Visual Studio 2013\Projects\OOP\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\bin\Debug\_4.UniversityLearningSystem.exe
+C:\Users\lili\Documents\Visual Studio 2013\Projects\OOP\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\bin\Debug\_4.UniversityLearningSystem.pdb
+C:\Users\lili\Documents\Visual Studio 2013\Projects\OOP\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\obj\Debug\4. UniversityLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\lili\Documents\Visual Studio 2013\Projects\OOP\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\obj\Debug\_4.UniversityLearningSystem.exe
+C:\Users\lili\Documents\Visual Studio 2013\Projects\OOP\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\obj\Debug\_4.UniversityLearningSystem.pdb
+G:\Razni\SoftUni\High-Quality Code\03. Code-Formatting-Homework\Homework_Code_Formatting\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\bin\Debug\_4.UniversityLearningSystem.exe.config
+G:\Razni\SoftUni\High-Quality Code\03. Code-Formatting-Homework\Homework_Code_Formatting\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\obj\Debug\_4.UniversityLearningSystem.exe
+G:\Razni\SoftUni\High-Quality Code\03. Code-Formatting-Homework\Homework_Code_Formatting\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\obj\Debug\_4.UniversityLearningSystem.pdb
+C:\Users\lili\Desktop\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\bin\Debug\_4.UniversityLearningSystem.exe.config
+C:\Users\lili\Desktop\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\obj\Debug\_4.UniversityLearningSystem.exe
+C:\Users\lili\Desktop\OOP_Homework_DefiningClasses\4. UniversityLearningSystem\obj\Debug\_4.UniversityLearningSystem.pdb

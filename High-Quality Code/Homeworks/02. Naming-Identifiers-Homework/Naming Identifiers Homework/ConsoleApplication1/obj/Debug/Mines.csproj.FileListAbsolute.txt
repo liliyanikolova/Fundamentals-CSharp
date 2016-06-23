@@ -1,0 +1,3 @@
+G:\Razni\SoftUni\High-Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Razni\SoftUni\High-Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Razni\SoftUni\High-Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

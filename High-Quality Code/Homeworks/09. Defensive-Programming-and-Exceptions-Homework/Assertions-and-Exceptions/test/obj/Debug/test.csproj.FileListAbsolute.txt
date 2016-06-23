@@ -1,0 +1,5 @@
+G:\Razni\SoftUni\High-Quality Code\Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\test\bin\Debug\test.exe.config
+G:\Razni\SoftUni\High-Quality Code\Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\test\bin\Debug\test.exe
+G:\Razni\SoftUni\High-Quality Code\Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\test\bin\Debug\test.pdb
+G:\Razni\SoftUni\High-Quality Code\Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\test\obj\Debug\test.exe
+G:\Razni\SoftUni\High-Quality Code\Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\test\obj\Debug\test.pdb

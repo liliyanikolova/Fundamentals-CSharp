@@ -1,0 +1,2 @@
+G:\Razni\SoftUni\High-Quality Code\03. Code-Formatting-Homework\Homework_Code_Formatting\ReformatCode\bin\Debug\ReformatCode.exe.config
+G:\Razni\SoftUni\High-Quality Code\03. Code-Formatting-Homework\Homework_Code_Formatting\ReformatCode\obj\Debug\ReformatCode.csprojResolveAssemblyReference.cache

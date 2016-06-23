@@ -1,0 +1,5 @@
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\02.HQC\09.DefensiveProgramming\MyHomework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\02.HQC\09.DefensiveProgramming\MyHomework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\02.HQC\09.DefensiveProgramming\MyHomework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\02.HQC\09.DefensiveProgramming\MyHomework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamental Level\02.HQC\09.DefensiveProgramming\MyHomework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache

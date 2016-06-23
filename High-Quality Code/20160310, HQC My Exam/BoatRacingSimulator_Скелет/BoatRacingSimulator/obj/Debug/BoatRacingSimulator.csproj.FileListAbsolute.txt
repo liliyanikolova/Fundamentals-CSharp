@@ -1,0 +1,3 @@
+C:\Users\lili\Desktop\HQC Exam\BoatRacingSimulator_Скелет\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe.config
+G:\Razni\SoftUni\High-Quality Code\20160310, HQC My Exam\BoatRacingSimulator_Скелет\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe.config
+D:\Razni\GitHub Repositories\Fundamentals-CSharp\High-Quality Code\20160310, HQC My Exam\BoatRacingSimulator_Скелет\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe.config

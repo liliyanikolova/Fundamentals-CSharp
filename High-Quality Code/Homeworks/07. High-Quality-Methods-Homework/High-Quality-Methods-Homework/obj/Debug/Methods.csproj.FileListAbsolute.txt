@@ -1,0 +1,10 @@
+G:\Razni\SoftUni\High-Quality Code\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+G:\Razni\SoftUni\High-Quality Code\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+G:\Razni\SoftUni\High-Quality Code\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\High-Quality Code\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+G:\Razni\SoftUni\High-Quality Code\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+G:\Razni\SoftUni\High-Quality Code\Homeworks\07. High-Quality-Methods-Homework\High-Quality-Methods-Homework\obj\Debug\Methods.exe
+G:\Razni\SoftUni\High-Quality Code\Homeworks\07. High-Quality-Methods-Homework\High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+G:\Razni\SoftUni\High-Quality Code\Homeworks\07. High-Quality-Methods-Homework\High-Quality-Methods-Homework\bin\Debug\Methods.exe
+G:\Razni\SoftUni\High-Quality Code\Homeworks\07. High-Quality-Methods-Homework\High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+G:\Razni\SoftUni\High-Quality Code\Homeworks\07. High-Quality-Methods-Homework\High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache

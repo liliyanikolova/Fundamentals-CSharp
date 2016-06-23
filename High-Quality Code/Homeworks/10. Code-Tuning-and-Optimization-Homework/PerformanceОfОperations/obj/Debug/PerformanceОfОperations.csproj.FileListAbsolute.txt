@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\High-Quality Code\Homeworks\10. Code-Tuning-and-Optimization-Homework\PerformanceОfОperations\bin\Debug\PerformanceОfОperations.exe.config
+G:\Razni\SoftUni\High-Quality Code\Homeworks\10. Code-Tuning-and-Optimization-Homework\PerformanceОfОperations\bin\Debug\PerformanceОfОperations.exe
+G:\Razni\SoftUni\High-Quality Code\Homeworks\10. Code-Tuning-and-Optimization-Homework\PerformanceОfОperations\bin\Debug\PerformanceОfОperations.pdb
+G:\Razni\SoftUni\High-Quality Code\Homeworks\10. Code-Tuning-and-Optimization-Homework\PerformanceОfОperations\obj\Debug\PerformanceОfОperations.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\High-Quality Code\Homeworks\10. Code-Tuning-and-Optimization-Homework\PerformanceОfОperations\obj\Debug\PerformanceОfОperations.exe
+G:\Razni\SoftUni\High-Quality Code\Homeworks\10. Code-Tuning-and-Optimization-Homework\PerformanceОfОperations\obj\Debug\PerformanceОfОperations.pdb

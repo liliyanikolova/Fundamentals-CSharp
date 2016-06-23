@@ -1,0 +1,7 @@
+G:\Razni\SoftUni\High-Quality Code\Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\bin\Debug\CustomLinkedList.Test.dll
+G:\Razni\SoftUni\High-Quality Code\Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\bin\Debug\CustomLinkedList.Test.pdb
+G:\Razni\SoftUni\High-Quality Code\Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\bin\Debug\CustomLinkedList.dll
+G:\Razni\SoftUni\High-Quality Code\Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\bin\Debug\CustomLinkedList.pdb
+G:\Razni\SoftUni\High-Quality Code\Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\obj\Debug\CustomLinkedList.Test.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\High-Quality Code\Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\obj\Debug\CustomLinkedList.Test.dll
+G:\Razni\SoftUni\High-Quality Code\Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Test\obj\Debug\CustomLinkedList.Test.pdb

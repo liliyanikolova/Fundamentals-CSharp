@@ -1,0 +1,18 @@
+c:\users\lili\documents\visual studio 2013\Projects\OOP_Workshop_Logger\Logger\bin\Debug\Logger.exe.config
+c:\users\lili\documents\visual studio 2013\Projects\OOP_Workshop_Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+c:\users\lili\documents\visual studio 2013\Projects\OOP_Workshop_Logger\Logger\bin\Debug\Logger.exe
+c:\users\lili\documents\visual studio 2013\Projects\OOP_Workshop_Logger\Logger\bin\Debug\Logger.pdb
+c:\users\lili\documents\visual studio 2013\Projects\OOP_Workshop_Logger\Logger\obj\Debug\Logger.exe
+c:\users\lili\documents\visual studio 2013\Projects\OOP_Workshop_Logger\Logger\obj\Debug\Logger.pdb
+G:\Razni\SoftUni\Object-Oriented Programming\OOP_Workshop_Logger\Logger\bin\Debug\Logger.exe.config
+G:\Razni\SoftUni\Object-Oriented Programming\OOP_Workshop_Logger\Logger\obj\Debug\Logger.exe
+G:\Razni\SoftUni\Object-Oriented Programming\OOP_Workshop_Logger\Logger\obj\Debug\Logger.pdb
+G:\Razni\SoftUni\Object-Oriented Programming\OOP_Workshop_Logger\Logger\bin\Debug\Logger.exe
+G:\Razni\SoftUni\Object-Oriented Programming\OOP_Workshop_Logger\Logger\bin\Debug\Logger.pdb
+G:\Razni\SoftUni\Object-Oriented Programming\OOP_Workshop_Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\High-Quality Code\Homeworks\15. Logger\Logger\Logger\bin\Debug\Logger.exe.config
+G:\Razni\SoftUni\High-Quality Code\Homeworks\15. Logger\Logger\Logger\obj\Debug\Logger.exe
+G:\Razni\SoftUni\High-Quality Code\Homeworks\15. Logger\Logger\Logger\obj\Debug\Logger.pdb
+G:\Razni\SoftUni\High-Quality Code\Homeworks\15. Logger\Logger\Logger\bin\Debug\Logger.exe
+G:\Razni\SoftUni\High-Quality Code\Homeworks\15. Logger\Logger\Logger\bin\Debug\Logger.pdb
+G:\Razni\SoftUni\High-Quality Code\Homeworks\15. Logger\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache

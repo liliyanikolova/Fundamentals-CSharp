@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exceptions_Homework.ExamProblem.Exam">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExamProblem\Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions_Homework.ExceptionsMain" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ExceptionsMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions_Homework.ExamProblem.SimpleMathExam">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ExamProblem\SimpleMathExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions_Homework.ExamProblem.Student" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAgAAAAAAAAAAAQAAAAAAAACAACAAgAAg=</HashCode>
+      <FileName>ExamProblem\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions_Homework.ExamProblem.CSharpExam" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgAQAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExamProblem\CSharpExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions_Homework.ExamProblem.ExamResult" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQkAAAABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEEIAA=</HashCode>
+      <FileName>ExamProblem\ExamResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

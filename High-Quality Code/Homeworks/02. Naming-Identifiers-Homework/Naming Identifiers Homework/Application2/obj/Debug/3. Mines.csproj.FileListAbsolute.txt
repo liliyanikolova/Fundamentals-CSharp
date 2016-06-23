@@ -1,0 +1,6 @@
+G:\Razni\SoftUni\High-Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Mines.exe.config
+G:\Razni\SoftUni\High-Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\3. Mines.csprojResolveAssemblyReference.cache
+G:\Razni\SoftUni\High-Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Mines.exe
+G:\Razni\SoftUni\High-Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Mines.pdb
+G:\Razni\SoftUni\High-Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\Mines.exe
+G:\Razni\SoftUni\High-Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\Mines.pdb
